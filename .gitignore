@@ -1,6 +1,7 @@
 __pycache__/
 .DS_Store
 py37/
+py3/
 .vscode/
 
 review_polarity.tar.gz
